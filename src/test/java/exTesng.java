@@ -11,10 +11,10 @@ public class exTesng {
 	    	 String revwd = nwd.reverse().toString();
 	    	 
 	    	 if(word.equalsIgnoreCase(revwd)){
-	    		 System.out.println("This is palandrome");
+	    		 System.out.println("This is my palandrome");
 	    	 }
 	    	 else {
-	    		 System.out.println("This is not a palandrome");
+	    		 System.out.println("This is not my palandrome");
 	    	 }		
 	}
 
